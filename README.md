@@ -6,4 +6,4 @@
 언제나 SourceTree는 널 지켜볼거야....<br/>
 <br/>
 테크니컬 아티스트를 위한 유니티 셰이더 스타트업
-<img width="100%" src="{https://github.com/KimJinWoong0802/Shader_Study_JW/assets/67891718/c7c175a9-cf79-4b13-ac65-51894b7f7818.jpg}"/>
+![book_title](https://github.com/KimJinWoong0802/Shader_Study_JW/assets/67891718/f6e55dab-076f-4c85-b172-b540babb9ad9)
